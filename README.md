@@ -24,3 +24,5 @@ Works with Claude Code, Codex, Cursor, Antigravity, or any other AI coding agent
 ## Using an AI coding agent with this repo
 
 This repo includes CLAUDE.md files that give your AI coding agent context about the practice exercises and GitHub concepts. If you get stuck while following the guide, just ask — it already knows the repo and can help. Rename the CLAUDE.md files to match your tool's convention (ex:`AGENTS.md`) if you're not using Claude Code.
+
+Edited by George Gessey as part of my first GitHub practice.
